@@ -1,4 +1,5 @@
 # chat_app
+![image](https://github.com/user-attachments/assets/f8e51a66-708d-4d28-af79-1addbce67f8d)
 
 A new Flutter project.
 
